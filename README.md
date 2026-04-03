@@ -145,7 +145,7 @@ The constraint: **never ship code the user didn't ask for. Every feature is opt-
 ## Install
 
 ```bash
-git clone https://github.com/your-org/mano.git
+git clone https://github.com/copyleftdev/mano.git
 cd mano
 cargo build --release
 cp target/release/mano /usr/local/bin/
